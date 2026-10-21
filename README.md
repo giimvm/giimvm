@@ -1,6 +1,5 @@
 # ────────────────────୨ৎ──────────────────
-oii ⊹ ࣪ ˖<br>sou estudante de ADS na CESAR School, bolsista pelo programa do Embarque Digital!<br>atualmente trabalho como Estagiária na área de Gestão de Serviços de TI da Secretaria de Educação de Pernambuco.<br>tenho interesse em desenvolvimento Back-end, Engenharia de Software e Inteligência Artificial, buscando criar soluções que unam tecnologia e impacto social.
-
+oii ⊹ ࣪ ˖<br>sou estudante de ADS na CESAR School, bolsista pelo programa do Embarque Digital! atualmente sou Analista de Soluções I na Capgemini, onde atuo como Desenvolvedora Full Stack. trabalho com Java, Spring Boot e Angular, participando do desenvolvimento e evolução de aplicações corporativas, APIs e integrações.<br>tenho interesse em Desenvolvimento Full Stack, Engenharia de Software, Arquitetura de Sistemas e Inteligência Artificial, buscando criar soluções que unam tecnologia e impacto social.
 
 ## ୨୧ Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giimonteiro._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/giovana-monteiro-a419a4349/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heygiovanam@gmail.com) 
